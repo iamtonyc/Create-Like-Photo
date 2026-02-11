@@ -15,7 +15,7 @@ export const processImageWithGemini = async (
   CRITICAL INSTRUCTIONS: 
   1. DO NOT change the person's face or facial expression. The face must be identical to the original.
   2. Keep the person's identity, hair, and clothing exactly the same as the source image.
-  3. Remove the entire background and replace it with a clean, professional solid studio background.
+  3. Remove the entire background and replace it with a clean, solid light green background.
   4. Only extend the picture to include the hand gesture; do not regenerate the person.`;
 
   // Extract base64 data (remove prefix if present)

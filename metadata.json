@@ -1,0 +1,5 @@
+{
+  "name": "Create Like Photo",
+  "description": "A creative tool that transforms your uploaded photos into 'Like' or 'Dislike' reactions using Gemini AI. It replaces gestures with a thumbs up or thumbs down and removes the background for a clean, professional look.",
+  "requestFramePermissions": []
+}
